@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "title": "alien",
+        "director": "yo",
+        "rating" : "9.5"
+    },
+    {
+        "id": "2",
+        "title": "no se",
+        "director": "Saray",
+        "rating" : "5"
+    }
+]

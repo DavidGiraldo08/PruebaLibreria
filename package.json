@@ -28,7 +28,8 @@
   "scripts": {
   
     
-  "dev": "nodemon src/index.js"
+  "dev": "nodemon src/index.js",
+  "test": "set NODE_OPTIONS=--experimental-vm-modules && npx jest"
   
   },
   

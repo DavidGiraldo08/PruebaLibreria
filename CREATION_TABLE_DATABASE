@@ -1,0 +1,7 @@
+CREATE TABLE `libros`.`ejemplo` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `titulo` VARCHAR(45) NULL,
+  `autor` VARCHAR(45) NULL,
+  `fecha` VARCHAR(45) NULL,
+  `genero` VARCHAR(45) NULL,
+  PRIMARY KEY (`id`));
